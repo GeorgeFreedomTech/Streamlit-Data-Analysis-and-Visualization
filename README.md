@@ -1,4 +1,4 @@
-# Streamlit Data Control: Data Analysis & Visualization
+# Streamlit Data Control: Data Analysis & Visualization Course
 
 ### **By George Freedom**
 Go from raw data to interactive dashboards. This comprehensive course (Lessons 0-4) will guide you through the complete data science stack - NumPy, Pandas, Matplotlib, and Streamlit - preparing you to process data and launch your own analytical web applications.
@@ -55,7 +55,7 @@ If you are comfortable with the terminal and want to easily update materials lat
 * Open your terminal or command prompt.
 * Run the following command:
     ```bash
-    git clone https://github.com/GeorgeFreedomTech/streamlit-data-analysis-course.git
+    git clone https://github.com/GeorgeFreedomTech/streamlit-data-analysis-and-visualisation-course.git
     ```
 
 ### Part 2: How to Open and Run the Notebooks
