@@ -1,7 +1,7 @@
 # Streamlit Data Control: Data Analysis & Visualization
 
 ### **By George Freedom**
-Go from raw telemetry to interactive dashboards. This comprehensive course (Lessons 0-4) will guide you through the complete data science stack - NumPy, Pandas, Matplotlib, and Streamlit - preparing you to process data and launch your own analytical web applications.
+Go from raw data to interactive dashboards. This comprehensive course (Lessons 0-4) will guide you through the complete data science stack - NumPy, Pandas, Matplotlib, and Streamlit - preparing you to process data and launch your own analytical web applications.
 
 ## 🚀 **Welcome to the Data Officer's Console!**
 
